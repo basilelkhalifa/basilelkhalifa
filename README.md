@@ -1,5 +1,5 @@
 <h1 align="center">Hey There 👋, I'm Basil ElKhalifa</h1>
-<h3 align="center">A passionate Junior Software Engineer currently studying at Marmara University</h3>
+<h3 align="center">A passionate Junior Frontend Developer currently studying at Marmara University</h3>
 
 - 🔭 I’m currently working on **a React Website**
 
