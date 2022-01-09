@@ -1,9 +1,9 @@
 <h1 align="center">Hey There 👋, I'm Basil ElKhalifa</h1>
-<h3 align="center">A passionate Junior Frontend Developer currently studying at Marmara University</h3>
+<h3 align="center">A passionate Junior Software Developer currently studying at Marmara University</h3>
 
-- 🔭 I’m currently working on **a React Website**
+- 🔭 I’m currently working on **Networking**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m also currently expanding my skills in **React**
 
 - 📫 How to reach me **basilelkhalifa@gmail.com**
 
